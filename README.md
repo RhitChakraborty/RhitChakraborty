@@ -1,5 +1,4 @@
 ### Hi there 👋
-I am a data science enthusiast possessing good analytical and technical skills and have experience in executing data driven insights to increase efficiency and accuracy. Have expertise in building end-to-end predictive analytics projects using machine learning and deep learning techniques. Have quality exposure in data visualization, analysis and modelling.
 
 <!--
 **RhitChakraborty/RhitChakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> ### Check my repositories and have a look at my projects!!
+I am a data science enthusiast possessing good analytical and technical skills and have experience in executing data driven insights to increase efficiency and accuracy. Have expertise in building end-to-end predictive analytics projects using machine learning and deep learning techniques. Have quality exposure in data visualization, analysis and modelling.
